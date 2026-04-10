@@ -4,3 +4,5 @@ ad connect
 active directory
 USER
 GROUP
+helo all
+welcome
